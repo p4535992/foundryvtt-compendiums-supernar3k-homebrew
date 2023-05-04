@@ -1,5 +1,7 @@
 # Super's Homebrew Compendium
 
+# USE THIS PROJECT INSTEAD [https://github.com/p4535992/foundryvtt-compendiums-mix-dnd5e](https://github.com/p4535992/foundryvtt-compendiums-mix-dnd5e)
+
 * Author: SuperNar3k
 * Version: 2.13.0
 * Foundry VTT Compatibility: 0.8.8
